@@ -81,7 +81,8 @@ ipch/
 *.ncb
 *.opendb
 *.opensdf
-*.sdf
+# remove this item following, because a category of database is end with .sdf
+#*.sdf
 *.cachefile
 *.VC.db
 *.VC.VC.opendb
